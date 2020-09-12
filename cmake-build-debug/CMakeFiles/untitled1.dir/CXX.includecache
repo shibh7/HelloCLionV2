@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Sidha/CLionProjects/untitled1/gcd.hpp
+
+/cygdrive/c/Users/Sidha/CLionProjects/untitled1/main.cpp
+iostream
+-
+gcd.hpp
+/cygdrive/c/Users/Sidha/CLionProjects/untitled1/gcd.hpp
+
